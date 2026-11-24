@@ -4,6 +4,14 @@ An embedded robotics and real-time telemetry system built on the **Arduino Uno R
 
 ![System Overview](assets/system_overview.jpg.jpeg)
 
+
+
+https://github.com/user-attachments/assets/b2ad74d4-8815-4290-93c3-8e1b449b1dd6
+
+
+
+
+
 ## System Architecture
 
 ```text
